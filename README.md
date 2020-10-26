@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherreAhlers&theme=<Languages>" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SherreAhlers&theme=pin" />
+[![Sherre's github stats](https://github-readme-stats.vercel.app/api?username=SherreAhlers)](https://github.com/SherreAhlers/github-readme-stats)
 
