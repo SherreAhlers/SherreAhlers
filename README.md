@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Header](https://i.imgur.com/DlA2vSG.mp4 "Header")
+![Header](https://i.imgur.com/03j7Za9.png "Header")
