@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherreAhlers&theme=<Languages>" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SherreAhlers&theme=<pinned-projects>" />
