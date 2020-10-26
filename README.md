@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Header](https://raw.githubusercontent.com/SherreAhlers/Coding-Background.jpeg "Header")](https://www.formationwater.com)
+[![Header](https://raw.githubusercontent.com/SherreAhlers/coding-laptop.png "Header")](https://www.formationwater.com)
