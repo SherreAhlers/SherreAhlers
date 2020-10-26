@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherreAhlers&theme=<Languages>" />
 
-![Sherre's github stats](https://github-readme-stats.vercel.app/api?username=SherreAhlers&hide=contribs,prs)
+![Sherre's github stats](https://github-readme-stats.vercel.app/api?username=SherreAhlers&hide=contribs,prs&show_icons=true)
 
